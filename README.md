@@ -7,7 +7,7 @@
 * 网络
 * Python3.x
     * requests 库
-    * BeautifilSoup4 库
+    * BeautifulSoup4 库
     * PIL 库
 
 ### 如何运行这个项目
